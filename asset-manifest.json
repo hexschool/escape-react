@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/escape-react/static/css/main.50460633.css",
+    "main.js": "/escape-react/static/js/main.628aa081.js",
+    "index.html": "/escape-react/index.html",
+    "main.50460633.css.map": "/escape-react/static/css/main.50460633.css.map",
+    "main.628aa081.js.map": "/escape-react/static/js/main.628aa081.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50460633.css",
+    "static/js/main.628aa081.js"
+  ]
+}
